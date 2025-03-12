@@ -1,4 +1,4 @@
-//https://github.com/LUIGGI2007/LenguajeC
+//https://github.com/IsaacLoaiza02/programacion.git
 #include<iostream>
 #include<stdlib.h>
 #include<time.h>
